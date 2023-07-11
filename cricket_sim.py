@@ -45,7 +45,6 @@ class Team:
 
         candidates={}
 
-
         # map(lambda c:candidates.update({c:c.agg_performance}),self.players)                  #No need for storing as it is only used to update candidates dict 
 
         for c in self.players:
@@ -54,7 +53,6 @@ class Team:
 
         self.captain=sorted(candidates.items(),key=lambda val:val[1],reverse=True)[0][0]
         # print(self.captain.name,self.captain.agg_performance)
-        
 
         
     def decide_batting_order(self):
@@ -74,6 +72,7 @@ class Team:
         
 
         # print(batting_table)
+
     
     def decide_bowling_order(self):
 
@@ -145,6 +144,8 @@ class Umpire:
         '''
         decision = random.choices(["run", "dot", "wicket"],[0.6,0.2,0.2])[0]               #Bias used as runs are a more frequent event compared to the other two
 
+        self.runs=0
+
 
         # if batting_team.batsman is None:
         #     match.end_match()
@@ -160,7 +161,13 @@ class Umpire:
 
             batting_team.batsman.is_out=True
             print("Out!")
-            batting_team.wickets+=1 if batting_team.wickets<match.max_wickets else match.change_innings()
+            try:
+
+                batting_team.wickets+=1 if batting_team.wickets<match.max_wickets else match.change_innings() if match.bowling_team.wickets<10 else match.end_match()
+            
+            except Exception as e:
+                print(e)
+                match.end_match()
             
             batting_team.select_batsman()
 
@@ -301,16 +308,15 @@ class Match:
         self.umpire.make_decision(self.batting_team,self)
 
         if self.balls % 6 == 0:
-            self.overs += 1
+            self.overs += 1 
             self.balls=0
             
         # Increment the runs scored by the batsman
         self.current_team.runs += self.umpire.runs
         # self.umpire.runs=0
 
-
         # Check if the innings need to be changed or match ends
-        if self.overs >= self.overs_per_innings:
+        if self.overs % self.overs_per_innings==0:
             self.change_innings()
 
 
@@ -355,8 +361,6 @@ class Match:
 
 
 
-
-
 #Instantiate Players a total of 22 and 11 per team
 
 azam = Player("Babar Azam", 0.12, 0.86, 0.92, 0.81, 0.88)
@@ -364,7 +368,6 @@ de_villiers = Player("AB de Villiers", 0.14, 0.92, 0.88, 0.86, 0.91)
 dhoni = Player("MS Dhoni", 0.21, 0.82, 0.97, 0.82, 0.92)
 gayle = Player("Chris Gayle", 0.16, 0.88, 0.86, 0.76, 0.84)
 hasan = Player("Shakib Al Hasan", 0.17, 0.85, 0.88, 0.82, 0.91)
-kane = Player("Kane Williamson", 0.10, 0.88, 0.91, 0.81, 0.89)
 kohli = Player("Virat Kohli", 0.13, 0.89, 0.94, 0.76, 0.86)
 kumar_s = Player("Kumar Sangakkara", 0.14, 0.84, 0.94, 0.81, 0.89)
 r_sharma = Player("Rohit Sharma", 0.22, 0.89, 0.90, 0.77, 0.85)
@@ -385,14 +388,14 @@ malinga = Player("Lasith Malinga", 0.24, 0.91, 0.90, 0.88, 0.89)
 
 #Instantiate teams
 team1 = Team("Team A", [dhoni,r_sharma,sachin,kumar_s,de_villiers,warner,root,buttler,bravo,steyn,rashid])
-team2 = Team("Team B", [kane,gayle,kohli,smith,azam ,hasan,bumrah,amla,tamim,lara,ponting,malinga])
+team2 = Team("Team B", [gayle,kohli,smith,azam ,hasan,bumrah,amla,tamim,lara,ponting,malinga])
 
 #Instantiate Umpire, Commentator & Field
 umpire=Umpire()
 commentator=Commentator()
 field = Field("Medium", 0.8, "Dry", 0.2, 10)
 
-overs_per_innings=5  #input("Enter overs per innings:")
+overs_per_innings=10  #input("Enter overs per innings:")
 max_wickets=10
 
 #Instantiate match
