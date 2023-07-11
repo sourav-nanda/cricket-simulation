@@ -102,8 +102,10 @@ class Team:
                 batsman.played=True
                 break
             else:
+                for player in self.players:
+                    player.played = False
                 self.batting_order.remove(batsman)
-                continue
+                # continue
 
     def select_bowler(self):
         
@@ -117,6 +119,8 @@ class Team:
                 bowler.played=True
                 break
             else:
+                # for player in self.players:
+                #     player.played = False
                 self.bowling_order.remove(bowler)
                 continue
 
@@ -128,12 +132,12 @@ class Field:
         self.fan_ratio = fan_ratio
         self.pitch_conditions = pitch_conditions
         self.home_adv = home_adv
-        self.max_wickets=max_wickets
+        
     
 class Umpire:
     def __init__(self):
         self.runs = 0
-        self.current_team = None
+        # self.current_team = None
 
     def make_decision(self, batting_team,match):
         '''
@@ -147,15 +151,21 @@ class Umpire:
             
 
         if decision == "run":
+
             runs_scored = random.randint(0, 6)
             self.runs += runs_scored
             print(f"{batting_team.batsman.name} scores {runs_scored} run(s)!")
+
         elif decision == "wicket":
+
             batting_team.batsman.is_out=True
-            batting_team.wickets+=1
             print("Out!")
+            batting_team.wickets+=1 if batting_team.wickets<match.max_wickets else match.change_innings()
+            
             batting_team.select_batsman()
+
         else:
+
             print("Dot ball!")
 
 
@@ -197,7 +207,7 @@ class Commentator:
 
 class Match:
 
-    def __init__(self, team1, team2, field, umpire, commentator, overs_per_innings):
+    def __init__(self, team1, team2, field, umpire, commentator, overs_per_innings,max_wickets):
         
         self.balls=0
         self.overs=0
@@ -207,6 +217,10 @@ class Match:
         self.field = field
         
         self.umpire = umpire
+        self.commentator = commentator
+        self.overs_per_innings=overs_per_innings
+        self.max_wickets=max_wickets
+        
         self.completed_overs=0
         
         self.batting_team = None
@@ -215,8 +229,6 @@ class Match:
         self.current_team=None
         self.opponent_team = None
         
-        self.commentator = commentator
-        self.overs_per_innings=overs_per_innings
 
         self.is_match_ended = False
 
@@ -244,11 +256,10 @@ class Match:
 
         if self.current_team.toss_choice == "Bat":
             self.batting_team,self.bowling_team=self.current_team,self.opponent_team
-            
         else:
             self.batting_team,self.bowling_team=self.opponent_team,self.current_team
         
-        self.umpire.current_team=self.current_team
+        # self.umpire.current_team=self.batting_team
             
 
     def start_match(self):
@@ -265,7 +276,7 @@ class Match:
 
 
         # Simulation runs till the match ends or the innings end
-        while not(self.is_match_ended) or self.current_team.batting_order:
+        while not self.is_match_ended or self.current_team.batting_order:  #(self.current_team.batting_order or self.current_team.bowling_order)
 
             # if self.batting_team.batsman.is_out:
             self.batting_team.select_batsman()
@@ -273,8 +284,6 @@ class Match:
             self.bowling_team.select_bowler()
             
             self.play_ball()
-
-        
 
         self.end_match()
 
@@ -295,9 +304,10 @@ class Match:
             self.overs += 1
             self.balls=0
             
-
         # Increment the runs scored by the batsman
         self.current_team.runs += self.umpire.runs
+        # self.umpire.runs=0
+
 
         # Check if the innings need to be changed or match ends
         if self.overs >= self.overs_per_innings:
@@ -309,12 +319,14 @@ class Match:
         Changes the innings and updates the current batting and bowling teams
         '''
         
-        self.batting_team,self.bowling_team = (self.opponent_team,self.current_team) if self.batting_team == self.current_team else (self.current_team,self.opponent_team)
+        self.batting_team,self.bowling_team = self.bowling_team,self.batting_team
         
+        self.batting_team.decide_batting_order()
+        self.bowling_team.decide_bowling_order()
 
-
-        self.batting_team.decide_batting_order();self.bowling_team.decide_bowling_order();
-
+        if not self.batting_team.batting_order:
+            self.end_match()
+            
         self.batting_team.select_batsman()
         self.bowling_team.select_bowler()
 
@@ -381,9 +393,10 @@ commentator=Commentator()
 field = Field("Medium", 0.8, "Dry", 0.2, 10)
 
 overs_per_innings=5  #input("Enter overs per innings:")
+max_wickets=10
 
 #Instantiate match
-match = Match(team1, team2, field, umpire, commentator, overs_per_innings)
+match = Match(team1, team2, field, umpire, commentator, overs_per_innings,max_wickets)
 
 
 #Begin match
