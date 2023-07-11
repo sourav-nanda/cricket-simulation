@@ -1,0 +1,45 @@
+ Batsman: Sachin Tendulkar | Bowler: Chris Gayle
+Score: runs/wickets
+Score: 0/0
+Overs: 0
+Sachin Tendulkar scores 0 run(s) against Chris Gayle. Dot ball!
+Dot ball!
+
+ Batsman: Rohit Sharma | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 0/0
+Overs: 0
+Rohit Sharma scores 0 run(s) against Virat Kohli. Dot ball!
+Rohit Sharma scores 3 run(s)!
+
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 3/0
+Overs: 0
+AB de Villiers scores 3 run(s) against Shakib Al Hasan. Three runs.
+AB de Villiers scores 5 run(s)!
+
+ Batsman: Kumar Sangakkara | Bowler: Kane Williamson
+Score: runs/wickets
+Score: 11/0
+Overs: 0
+
+Dot ball!
+
+ Batsman: MS Dhoni | Bowler: Steve Smith
+Score: runs/wickets
+Score: 19/0
+Overs: 0
+
+Out!
+
+ Batsman: MS Dhoni | Bowler: Babar Azam
+Score: runs/wickets
+Score: 27/0
+Overs: 0
+
+MS Dhoni scores 6 run(s)!
+Match ended.
+Team A scored 41/0 in 1 overs.
+Team B needs 42 runs to win.
+Team A won the match!
