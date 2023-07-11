@@ -135,11 +135,16 @@ class Umpire:
         self.runs = 0
         self.current_team = None
 
-    def make_decision(self, batting_team):
+    def make_decision(self, batting_team,match):
         '''
         Makes a decision on the outcome of a ball based on player statistics, field conditions, etc.
         '''
         decision = random.choices(["run", "dot", "wicket"],[0.6,0.2,0.2])[0]               #Bias used as runs are a more frequent event compared to the other two
+
+
+        # if batting_team.batsman is None:
+        #     match.end_match()
+            
 
         if decision == "run":
             runs_scored = random.randint(0, 6)
@@ -266,11 +271,10 @@ class Match:
             self.batting_team.select_batsman()
 
             self.bowling_team.select_bowler()
-
-            # Start the innings of the current team
-            self.commentator.comment(self.batting_team.batsman,self.bowling_team.bowler,self.current_team.runs,self.batting_team.wickets,self.overs)
             
             self.play_ball()
+
+        
 
         self.end_match()
 
@@ -280,8 +284,12 @@ class Match:
         Simulates playing a ball and checks if the innings need to be changed or match ends
         '''
         self.balls += 1
+
+        #Start the innings of the current team
+        if self.batting_team.batsman is not None and self.bowling_team.bowler is not None:
+            self.commentator.comment(self.batting_team.batsman, self.bowling_team.bowler, self.batting_team.runs, self.batting_team.wickets, self.overs)
         
-        self.umpire.make_decision(self.batting_team)
+        self.umpire.make_decision(self.batting_team,self)
 
         if self.balls % 6 == 0:
             self.overs += 1
@@ -293,22 +301,23 @@ class Match:
 
         # Check if the innings need to be changed or match ends
         if self.overs >= self.overs_per_innings:
-            self.change_innings(self.batting_team)
+            self.change_innings()
 
 
-    def change_innings(self,batting_team):
+    def change_innings(self):
         '''
         Changes the innings and updates the current batting and bowling teams
         '''
         
-        self.batting_team = self.opponent_team if self.batting_team == self.current_team else self.current_team
-
-        # self.batting_team.decide_batting_order();self.bowling_team.decide_bowling_order();
-
-        # self.batting_team.select_batsman()
-        # self.bowling_team.select_bowler()
-
+        self.batting_team,self.bowling_team = (self.opponent_team,self.current_team) if self.batting_team == self.current_team else (self.current_team,self.opponent_team)
         
+
+
+        self.batting_team.decide_batting_order();self.bowling_team.decide_bowling_order();
+
+        self.batting_team.select_batsman()
+        self.bowling_team.select_bowler()
+
         # self.overs = 0
         self.balls=0
         print(f"{self.batting_team.name} starts batting.")
