@@ -1,0 +1,1475 @@
+
+ 07/12/2023, 12:28:57
+ Batsman: Sachin Tendulkar | Bowler: Lasith Malinga
+Score: runs/wickets
+Score: 0/0
+Overs: 0
+Sachin Tendulkar scores 0 run(s) against Lasith Malinga. Dot ball!
+Sachin Tendulkar scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Sachin Tendulkar | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 4/0
+Overs: 0
+Sachin Tendulkar scores 4 run(s) against Shakib Al Hasan. It's a boundary!
+Sachin Tendulkar scores 2 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Sachin Tendulkar | Bowler: Brian Lara
+Score: runs/wickets
+Score: 6/0
+Overs: 0
+Sachin Tendulkar scores 6 run(s) against Brian Lara. That's a Sixer!
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Sachin Tendulkar | Bowler: Chris Gayle
+Score: runs/wickets
+Score: 6/0
+Overs: 0
+Sachin Tendulkar scores 6 run(s) against Chris Gayle. That's a Sixer!
+Sachin Tendulkar scores 1 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Sachin Tendulkar | Bowler: Hashim Amla
+Score: runs/wickets
+Score: 7/0
+Overs: 0
+Sachin Tendulkar scores 2 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Sachin Tendulkar | Bowler: Tamim Iqbal
+Score: runs/wickets
+Score: 9/0
+Overs: 0
+Out!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 9/1
+Overs: 1
+AB de Villiers scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Babar Azam
+Score: runs/wickets
+Score: 14/1
+Overs: 1
+AB de Villiers scores 1 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Jasprit Bumrah
+Score: runs/wickets
+Score: 15/1
+Overs: 1
+AB de Villiers scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Ricky Ponting
+Score: runs/wickets
+Score: 18/1
+Overs: 1
+AB de Villiers scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 22/1
+Overs: 1
+AB de Villiers scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 25/1
+Overs: 1
+AB de Villiers scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 30/1
+Overs: 2
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 30/1
+Overs: 2
+AB de Villiers scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 35/1
+Overs: 2
+AB de Villiers scores 0 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 35/1
+Overs: 2
+AB de Villiers scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 38/1
+Overs: 2
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 38/1
+Overs: 2
+AB de Villiers scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 43/1
+Overs: 3
+AB de Villiers scores 0 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 43/1
+Overs: 3
+AB de Villiers scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 47/1
+Overs: 3
+AB de Villiers scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 50/1
+Overs: 3
+AB de Villiers scores 1 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 51/1
+Overs: 3
+AB de Villiers scores 1 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 52/1
+Overs: 3
+Out!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 52/2
+Overs: 4
+Dale Steyn scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 55/2
+Overs: 4
+Dale Steyn scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 60/2
+Overs: 4
+Dale Steyn scores 6 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 66/2
+Overs: 4
+Dale Steyn scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 71/2
+Overs: 4
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 71/2
+Overs: 4
+Dale Steyn scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 75/2
+Overs: 5
+Dale Steyn scores 6 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 81/2
+Overs: 5
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 81/2
+Overs: 5
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 81/2
+Overs: 5
+Dale Steyn scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 84/2
+Overs: 5
+Dale Steyn scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 87/2
+Overs: 5
+Dale Steyn scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 92/2
+Overs: 6
+Dale Steyn scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 96/2
+Overs: 6
+Dale Steyn scores 2 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 98/2
+Overs: 6
+Dale Steyn scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 101/2
+Overs: 6
+Dale Steyn scores 2 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 103/2
+Overs: 6
+Dale Steyn scores 1 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 104/2
+Overs: 6
+Dale Steyn scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 108/2
+Overs: 7
+Dale Steyn scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 113/2
+Overs: 7
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 113/2
+Overs: 7
+Dale Steyn scores 6 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Dale Steyn | Bowler: Steve Smith
+Score: runs/wickets
+Score: 119/2
+Overs: 7
+Out!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 119/3
+Overs: 7
+Jos Buttler scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 123/3
+Overs: 7
+Jos Buttler scores 1 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 124/3
+Overs: 8
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 124/3
+Overs: 8
+Jos Buttler scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 128/3
+Overs: 8
+Jos Buttler scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 133/3
+Overs: 8
+Jos Buttler scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 138/3
+Overs: 8
+Jos Buttler scores 2 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 140/3
+Overs: 8
+Jos Buttler scores 4 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 144/3
+Overs: 9
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 144/3
+Overs: 9
+Jos Buttler scores 0 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 144/3
+Overs: 9
+Jos Buttler scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 149/3
+Overs: 9
+Jos Buttler scores 0 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 149/3
+Overs: 9
+Jos Buttler scores 5 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 154/3
+Overs: 9
+Out!
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Steve Smith
+Score: runs/wickets
+Score: 154/4
+Overs: 10
+AB de Villiers scores 2 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Rohit Sharma | Bowler: Steve Smith
+Score: runs/wickets
+Score: 156/4
+Overs: 10
+Rohit Sharma scores 6 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Rohit Sharma | Bowler: Steve Smith
+Score: runs/wickets
+Score: 162/4
+Overs: 10
+Out!
+
+ 07/12/2023, 12:28:57
+ Batsman: Jos Buttler | Bowler: Steve Smith
+Score: runs/wickets
+Score: 162/5
+Overs: 10
+Dot ball!
+
+ 07/12/2023, 12:28:57
+ Batsman: Joe Root | Bowler: Steve Smith
+Score: runs/wickets
+Score: 162/5
+Overs: 10
+Joe Root scores 3 run(s)!
+
+ 07/12/2023, 12:28:57
+ Batsman: Joe Root | Bowler: Steve Smith
+Score: runs/wickets
+Score: 165/5
+Overs: 10
+Joe Root scores 4 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 169/5
+Overs: 11
+AB de Villiers scores 2 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 175/5
+Overs: 11
+Out!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 175/6
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 3 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 178/6
+Overs: 11
+AB de Villiers scores 6 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 2 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 186/6
+Overs: 11
+AB de Villiers scores 6 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 1 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 193/6
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 6 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 199/6
+Overs: 11
+AB de Villiers scores 0 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 203/6
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 203/6
+Overs: 11
+AB de Villiers scores 4 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 211/6
+Overs: 11
+AB de Villiers scores 3 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 214/6
+Overs: 11
+AB de Villiers scores 0 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 214/6
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 5 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 224/6
+Overs: 11
+AB de Villiers scores 3 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 227/6
+Overs: 11
+AB de Villiers scores 2 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 229/6
+Overs: 11
+AB de Villiers scores 6 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 235/6
+Overs: 11
+AB de Villiers scores 0 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 235/6
+Overs: 11
+AB de Villiers scores 6 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 6 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 247/6
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 6 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 253/6
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 6 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 259/6
+Overs: 11
+AB de Villiers scores 0 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 259/6
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Brian Lara scores 0 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 264/6
+Overs: 11
+AB de Villiers scores 0 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 2 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 266/6
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Brian Lara | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/0
+Overs: 11
+Brian Lara scores 0 run(s) against MS Dhoni. Dot ball!
+Out!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Virat Kohli
+Score: runs/wickets
+Score: 266/6
+Overs: 11
+AB de Villiers scores 4 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 270/6
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 270/6
+Overs: 11
+Out!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 5 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 275/7
+Overs: 11
+AB de Villiers scores 0 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 275/7
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 280/7
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 6 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 286/7
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 295/7
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 299/7
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 6 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 310/7
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 314/7
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 314/7
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 318/7
+Overs: 11
+Out!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 2 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 320/8
+Overs: 11
+AB de Villiers scores 3 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 327/8
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 2 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 334/8
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 334/8
+Overs: 11
+AB de Villiers scores 4 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/1
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Out!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 338/8
+Overs: 11
+AB de Villiers scores 1 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 1 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 340/8
+Overs: 11
+AB de Villiers scores 3 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 1 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 344/8
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 0 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 344/8
+Overs: 11
+AB de Villiers scores 1 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 6 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 351/8
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 355/8
+Overs: 11
+AB de Villiers scores 4 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 0 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 359/8
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 359/8
+Overs: 11
+AB de Villiers scores 0 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 2 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 361/8
+Overs: 11
+AB de Villiers scores 2 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 3 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 366/8
+Overs: 11
+Out!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 366/9
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 366/9
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 371/9
+Overs: 11
+AB de Villiers scores 4 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/2
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Out!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 375/9
+Overs: 11
+AB de Villiers scores 6 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/3
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Dot ball!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 381/9
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/3
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 1 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 382/9
+Overs: 11
+AB de Villiers scores 2 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/3
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 388/9
+Overs: 11
+AB de Villiers scores 5 run(s)!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/3
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 2 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 395/9
+Overs: 11
+Dot ball!
+Team B starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: Jasprit Bumrah | Bowler: MS Dhoni
+Score: runs/wickets
+Score: 0/3
+Overs: 11
+Jasprit Bumrah scores 0 run(s) against MS Dhoni. Dot ball!
+Jasprit Bumrah scores 4 run(s)!
+Team A starts batting.
+
+ 07/12/2023, 12:28:57
+ Batsman: AB de Villiers | Bowler: Shakib Al Hasan
+Score: runs/wickets
+Score: 399/9
+Overs: 11
+Out!
+Team B starts batting.
+Team A starts batting.
+Match ended.
+Team A scored 399/10 in 12 overs.
+Team B needs 400 runs to win.
+Team A won the match!

@@ -52,11 +52,10 @@ class Team:
         
 
         self.captain=sorted(candidates.items(),key=lambda val:val[1],reverse=True)[0][0]
-        # print(self.captain.name,self.captain.agg_performance)
+        
 
         
     def decide_batting_order(self):
-
         '''
         Decides the batting order for the team by sorting players 
         in descending order based on their batting skills
@@ -75,7 +74,6 @@ class Team:
 
     
     def decide_bowling_order(self):
-
         '''
         Decides the bowling order for the team by sorting players
         in descending order based on their bowling skills
@@ -106,8 +104,7 @@ class Team:
                 self.batting_order.remove(batsman)
                 # continue
 
-    def select_bowler(self):
-        
+    def select_bowler(self):      
         '''
         Selects the bowler from the available players
         '''
@@ -136,21 +133,16 @@ class Field:
 class Umpire:
     def __init__(self):
         self.runs = 0
-        # self.current_team = None
+        
 
     def make_decision(self, batting_team,match):
         '''
         Makes a decision on the outcome of a ball based on player statistics, field conditions, etc.
         '''
-        decision = random.choices(["run", "dot", "wicket"],[0.6,0.2,0.2])[0]               #Bias used as runs are a more frequent event compared to the other two
+        decision = random.choices(["run", "dot", "wicket"],[0.6,0.2,0.1])[0]               #Bias used as runs are a more frequent event compared to the other two
 
         self.runs=0
-
-
-        # if batting_team.batsman is None:
-        #     match.end_match()
             
-
         if decision == "run":
 
             runs_scored = random.randint(0, 6)
@@ -161,16 +153,14 @@ class Umpire:
 
             batting_team.batsman.is_out=True
             print("Out!")
-            try:
-
-                batting_team.wickets+=1 if batting_team.wickets<match.max_wickets else match.change_innings() if match.bowling_team.wickets<10 else match.end_match()
+            batting_team.wickets+=1
             
-            except Exception as e:
-                print(e)
-                match.end_match()
-            
-            batting_team.select_batsman()
-
+            if batting_team.wickets >= match.max_wickets:
+                if match.bowling_team.wickets < match.max_wickets:
+                    match.change_innings()
+                    batting_team.select_batsman()
+                else:
+                    match.end_match()
         else:
 
             print("Dot ball!")
@@ -214,7 +204,7 @@ class Commentator:
 
 class Match:
 
-    def __init__(self, team1, team2, field, umpire, commentator, overs_per_innings,max_wickets):
+    def __init__(self, team1, team2, field, umpire, commentator, overs_per_innings,max_wickets,max_overs):
         
         self.balls=0
         self.overs=0
@@ -227,6 +217,7 @@ class Match:
         self.commentator = commentator
         self.overs_per_innings=overs_per_innings
         self.max_wickets=max_wickets
+        self.max_overs=max_overs
         
         self.completed_overs=0
         
@@ -251,14 +242,6 @@ class Match:
 
         self.current_team.select_captain()
         self.opponent_team.select_captain()
-        
-        # if self.current_team.toss_choice == "Bat":
-
-        #     self.current_team.decide_batting_order()
-        #     self.opponent_team.decide_bowling_order()
-        # else:
-        #     self.current_team.decide_bowling_order()
-        #     self.opponent_team.decide_batting_order()
 
 
         if self.current_team.toss_choice == "Bat":
@@ -266,7 +249,6 @@ class Match:
         else:
             self.batting_team,self.bowling_team=self.opponent_team,self.current_team
         
-        # self.umpire.current_team=self.batting_team
             
 
     def start_match(self):
@@ -277,20 +259,16 @@ class Match:
 
         self.batting_team.decide_batting_order();self.bowling_team.decide_bowling_order();
 
-        # self.batting_team.select_batsman()
-        # self.bowling_team.select_bowler()
         
-
-
-        # Simulation runs till the match ends or the innings end
-        while not self.is_match_ended or self.current_team.batting_order:  #(self.current_team.batting_order or self.current_team.bowling_order)
-
-            # if self.batting_team.batsman.is_out:
-            self.batting_team.select_batsman()
+        while not self.is_match_ended or (self.current_team.batting_order or self.opponent_team.bowling_order): 
+    
+            if (self.batting_team.batsman is None) or self.batting_team.batsman.is_out:
+                self.batting_team.select_batsman()
 
             self.bowling_team.select_bowler()
             
             self.play_ball()
+
 
         self.end_match()
 
@@ -313,18 +291,22 @@ class Match:
             
         # Increment the runs scored by the batsman
         self.current_team.runs += self.umpire.runs
-        # self.umpire.runs=0
+        
 
         # Check if the innings need to be changed or match ends
-        if self.overs % self.overs_per_innings==0:
+        if self.overs > self.overs_per_innings:
             self.change_innings()
+        elif self.overs==self.max_overs:
+            self.end_match()
+        if (self.batting_team.wickets >= self.max_wickets):
+            self.end_match()
+            
 
 
     def change_innings(self):
         '''
         Changes the innings and updates the current batting and bowling teams
         '''
-        
         self.batting_team,self.bowling_team = self.bowling_team,self.batting_team
         
         self.batting_team.decide_batting_order()
@@ -352,12 +334,13 @@ class Match:
         print(f"{self.current_team.name} scored {self.current_team.runs}/{self.current_team.wickets} in {self.overs} overs.")
         print(f"{self.opponent_team.name} needs {self.current_team.runs + 1} runs to win.")
 
-        if self.current_team.runs > self.opponent_team.runs:
+        if self.batting_team.runs > self.bowling_team.runs:
             print(f"{self.current_team.name} won the match!")
-        elif self.current_team.runs < self.opponent_team.runs:
+        elif self.batting_team.runs < self.bowling_team.runs:
             print(f"{self.opponent_team.name} won the match!")
         else:
             print("The match ended in a tie.")
+        quit()
 
 
 
@@ -397,9 +380,10 @@ field = Field("Medium", 0.8, "Dry", 0.2, 10)
 
 overs_per_innings=10  #input("Enter overs per innings:")
 max_wickets=10
+max_overs=20
 
 #Instantiate match
-match = Match(team1, team2, field, umpire, commentator, overs_per_innings,max_wickets)
+match = Match(team1, team2, field, umpire, commentator, overs_per_innings,max_wickets,max_overs)
 
 
 #Begin match

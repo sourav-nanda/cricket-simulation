@@ -1,8 +1,8 @@
-# Cricket Match Simulation - Readme
+# Cricket Match Simulation
 
 ## Introduction
 
-Welcome to the Cricket Match Simulation! This code implements a simulation that allows you to experience a virtual cricket match. Whether you're a cricket enthusiast or simply curious about the game, this simulation will provide you with a taste of the excitement and strategy involved in this popular sport.
+ This code implements a simulation that allows you to experience a virtual cricket match implementing real world experiences.
 
 ## How It Works
 
@@ -41,3 +41,35 @@ The `Match` class includes methods to conduct the toss and determine the batting
 To use the code, you can create instances of the various classes according to your desired players, teams, field conditions, and overs per innings. Once the setup is complete, you can call the `start_match()` method on the `Match` instance to begin the simulation.
 
 In the provided code, sample players, teams, umpire, commentator, field conditions, and overs per innings are already created. The simulation is initiated by calling the `start_match()` method on the `match` instance.
+
+```tamim = Player("Tamim Iqbal", 0.15, 0.83, 0.86, 0.80, 0.85)
+lara = Player("Brian Lara", 0.18, 0.93, 0.94, 0.88, 0.89)
+ponting = Player("Ricky Ponting", 0.12, 0.89, 0.93, 0.81, 0.88)
+malinga = Player("Lasith Malinga", 0.24, 0.91, 0.90, 0.88, 0.89)
+
+#Instantiate teams
+team1 = Team("Team A", [dhoni,r_sharma,sachin,kumar_s,de_villiers,warner,root,buttler,bravo,steyn,rashid])
+team2 = Team("Team B", [gayle,kohli,smith,azam ,hasan,bumrah,amla,tamim,lara,ponting,malinga])
+
+#Instantiate Umpire, Commentator & Field
+umpire=Umpire()
+commentator=Commentator()
+field = Field("Medium", 0.8, "Dry", 0.2, 10)
+
+overs_per_innings=10 
+max_wickets=10
+max_overs=20
+
+#Instantiate match
+match = Match(team1, team2, field, umpire, commentator, overs_per_innings,max_wickets,max_overs)
+
+
+#Begin match
+match.start_match()
+```
+
+## Methodology: Building the Simulation
+
+In this section I will outline the steps I followed to build this simulation. 
+
+As this program is expressly built as a take-home assignment for a Python Developer Internship position at CRUV, I followed the assignment guidelines provided by CRUV and created empty class structures to establish the foundation of the program which included Umpire,Match,Team,Field E.t.c., .After that, I considered real-world aspects of cricket to define the attributes and functions of each class and proceeded to populate each class with code , focusing on readability and best practices. Once the core functionality was implemented, I added extra features, tested and debugged the program for errors to enhance the simulation within the context of a cricket match.

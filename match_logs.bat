@@ -1,0 +1,1 @@
+python cricket_sim.py > "Test Runs/Match logs.txt"
