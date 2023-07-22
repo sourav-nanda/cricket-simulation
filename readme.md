@@ -67,9 +67,3 @@ match = Match(team1, team2, field, umpire, commentator, overs_per_innings,max_wi
 #Begin match
 match.start_match()
 ```
-
-## Methodology: Building the Simulation
-
-In this section I will outline the steps I followed to build this simulation. 
-
-As this program is expressly built as a take-home assignment for a Python Developer Internship position at CRUV, I followed the assignment guidelines provided by CRUV and created empty class structures to establish the foundation of the program which included Umpire,Match,Team,Field E.t.c., .After that, I considered real-world aspects of cricket to define the attributes and functions of each class and proceeded to populate each class with code , focusing on readability and best practices. Once the core functionality was implemented, I added extra features, tested and debugged the program for errors to enhance the simulation within the context of a cricket match.
